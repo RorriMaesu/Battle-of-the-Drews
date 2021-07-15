@@ -1,0 +1,39 @@
+fileFormatVersion: 2
+guid: e88f3677078a10949a1bdd89fd39ee61
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - oriam: {fileID: 21300000, guid: cd3e0a22d5105c844a809bfa861f6d02, type: 3}
+  - andyBear: {fileID: 21300000, guid: fc88c27904e56ef44a19307dbc7bae3f, type: 3}
+  - pandrew: {fileID: 21300000, guid: 7c6df4d01a628154982fb3c9709f6496, type: 3}
+  - andyThug: {fileID: 21300000, guid: 1c00dbb86513cb849aa0886a541f101a, type: 3}
+  - andrea: {fileID: 21300000, guid: 63f61368e9325e94eb47678aa038c63c, type: 3}
+  - andyAndi: {fileID: 21300000, guid: 2824559792cb8154faf34f6a9b8e431d, type: 3}
+  - captainAndrew: {fileID: 21300000, guid: a39d14eb2adfeb949bddb9e11672ccb0, type: 3}
+  - roboDrew: {fileID: 21300000, guid: 56b909b7035d04b4f948532257270b5c, type: 3}
+  - bathroomsignDrew: {fileID: 21300000, guid: 1670e422e71bf954c9c624b05c3723af, type: 3}
+  - slaps: {fileID: 21300000, guid: c562dfcad330d354a8e0fe79b49f74ca, type: 3}
+  - doodleDrew: {fileID: 21300000, guid: e5b09921d96a455409c5927d4e5f01c6, type: 3}
+  - mustache: {fileID: 21300000, guid: 0e18daf6c151aa34b815a4362d6e6f18, type: 3}
+  - oriamObject: {instanceID: 0}
+  - andyBearObject: {instanceID: 0}
+  - pandrewObject: {instanceID: 0}
+  - andyThugObject: {instanceID: 0}
+  - andreaObject: {instanceID: 0}
+  - andyAndiObject: {instanceID: 0}
+  - captainAndrewObject: {instanceID: 0}
+  - roboDrewObject: {instanceID: 0}
+  - bathroomsignDrewObject: {instanceID: 0}
+  - slapsObject: {instanceID: 0}
+  - doodleDrewObject: {instanceID: 0}
+  - mustacheObject: {instanceID: 0}
+  - outOfBoundsController1: {instanceID: 0}
+  - outOfBoundsController2: {instanceID: 0}
+  - outOfBoundsController3: {instanceID: 0}
+  - outOfBoundsController4: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
